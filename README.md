@@ -1,4 +1,4 @@
-# vita
+# WatchCat
 
 ## 开发须知
 
